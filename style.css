@@ -126,7 +126,7 @@ footer {
         font-size: 26px;
     }
 
-    h2 {
+    .intro h2, .tech-headline, .plane-headline {
         font-size: 20px;
     }
 
@@ -157,7 +157,7 @@ footer {
         font-size: 36px;
     }
 
-    h2 {
+    .intro h2, .tech-headline, .plane-headline {
         margin-left: 5%;
         margin-right: 5%;
     }
@@ -199,7 +199,7 @@ footer {
         font-size: 38px;
     }
 
-    h2 {
+    .intro h2, .tech-headline, .plane-headline {
         margin-left: 6.5%;
         margin-right: 6.5%;
     }
@@ -240,7 +240,7 @@ footer {
         font-size: 42px;
     }
 
-    h2 {
+    .intro h2, .tech-headline, .plane-headline {
         margin-left: 9%;
         margin-right: 9%;
     }
@@ -260,7 +260,7 @@ footer {
         margin-right: 9%;
     }
     
-    h2 {
+    .intro h2, .tech-headline, .plane-headline {
         font-size: 28px;
     }
 
@@ -308,7 +308,7 @@ footer {
         font-size: 60px;
     }
 
-    h2 {
+    .intro h2, .tech-headline, .plane-headline {
         font-size: 36px;
     }
 
