@@ -319,3 +319,15 @@ footer {
         font-size: 18px;
     }
 }
+
+@media screen and (max-height: 450px) {
+    .header {
+        height: 50vh;
+    }
+}
+
+@media screen and (max-height: 450px) and (min-width: 1200px) {
+    .header {
+        height: 70vh;
+    }
+}
