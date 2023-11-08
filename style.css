@@ -121,6 +121,18 @@ footer {
     text-align: center;
 }
 
+.social-media {
+    color: #FDF0F0;
+    transition: color 0.2s;
+    font-size: 36px;
+    text-decoration: none;
+    margin: 0 1%;
+}
+
+.social-media:hover {
+    color: #697eb9;
+}
+
 @media screen and (max-width: 250px) {
     .header h1 {
         font-size: 26px;
